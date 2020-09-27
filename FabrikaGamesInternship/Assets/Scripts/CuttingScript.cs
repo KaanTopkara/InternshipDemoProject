@@ -22,6 +22,11 @@ public class CuttingScript : MonoBehaviour
     public Text ScoreText;
     public Text GameOverScoreText;
     private bool CollisionShifter = true;
+
+    private void Start()
+    {
+        Score = 0;
+    }
     private void Update()
     {
         ScoreText.text = Score.ToString();

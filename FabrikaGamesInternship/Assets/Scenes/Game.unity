@@ -6481,8 +6481,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Woods:
   - {fileID: 9199271175789549240, guid: 99d2079bfd67da146a39748951d3bff4, type: 3}
-  - {fileID: 387697076084018959, guid: a2d5c00c5f3534b4fa9c21ea5b2e99ec, type: 3}
-  - {fileID: 3927761681839165676, guid: 21b77ff1aa4dab14eb7db83a1e61e439, type: 3}
+  - {fileID: 3861104201832512762, guid: a2d5c00c5f3534b4fa9c21ea5b2e99ec, type: 3}
+  - {fileID: 5802820807359036941, guid: 21b77ff1aa4dab14eb7db83a1e61e439, type: 3}
   SpawnPositions:
   - {fileID: 2032614220}
   - {fileID: 892899015}

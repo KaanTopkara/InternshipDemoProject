@@ -678,4 +678,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/StartScene.unity
   - Assets/Scenes/Game.unity
-  playerPath: C:/Users/kaant/Desktop/FabrikaGamesInternshipGame/FabrikaGameApk/ApkFabrikaGamesInternship_FurkanKaanTopkara.apk
+  playerPath: C:/Users/kaant/Desktop/FabrikaGamesInternshipGame/FabrikaGamesDemoProjectApk_FurkanKaanTopkara/DemoApk_FurkanKaanTopkara.apk
