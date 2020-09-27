@@ -328,7 +328,7 @@ ScriptsOnlyBuild:
     className: PhysicsRaycaster
   - hash:
       serializedVersion: 2
-      Hash: 2179dda06a62227045e68d6f02ebfbd2
+      Hash: 0f7c695bbada9d5b4d25364eaada43dd
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: CuttingScript

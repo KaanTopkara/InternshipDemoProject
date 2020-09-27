@@ -21,11 +21,12 @@ public class CuttingScript : MonoBehaviour
     public GameObject GameOverMenu;
     public Text ScoreText;
     public Text GameOverScoreText;
-    private bool CollisionShifter = true;
+    public bool CollisionShifter = true;
 
     private void Start()
     {
         Score = 0;
+        CollisionShifter = true;
     }
     private void Update()
     {
@@ -41,7 +42,6 @@ public class CuttingScript : MonoBehaviour
             StartCoroutine(WoodParticleCreator());
             StartCoroutine(CameraTilt());
             Time.timeScale = 0.6f;
-            Debug.Log(WoodType);
             Invoke("WoodCut", 0.1f);
            
         }
