@@ -10,6 +10,9 @@ public class CuttingWoodDestroy : MonoBehaviour
         if(collision.gameObject.name == "SawWithCollider")
         {           
             Destroy(WholeWood, 0.1f);
+        } else if(collision.gameObject.name == "TrashCan")
+        {
+            Destroy(WholeWood, 0.1f);
         }
     }
 }

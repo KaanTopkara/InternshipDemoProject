@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 1111, y: 371}
   m_MaxSize: {x: 26006, y: 14021}
   vertical: 0
-  controlID: 115
+  controlID: 53
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 371}
   m_MaxSize: {x: 10002, y: 14021}
   vertical: 1
-  controlID: 72
+  controlID: 79
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -613,7 +613,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 52.287235
     speed: 2
-    m_Value: 6.466299
+    m_Value: 8.43204
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -703,19 +703,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/3TypeWood
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs/3TypeWood
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\GithubRepositories\InternshipDemoProject\FabrikaGamesInternship
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: dc370000
-    m_LastClickedID: 14300
+    m_SelectedIDs: e2370000
+    m_LastClickedID: 14306
     m_ExpandedIDs: 00000000ce370000d037000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -857,7 +857,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 3c78ffff5878fffff078ffff10cfffff20cfffff2ce4ffff82e6ffff58e7ffff80e7ffffd6e7ffffb2e9ffff08ebffff66ecffff54edffff6cfbfffffc3300003a34000092350000
+      m_ExpandedIDs: 56f7ffff70f7ffff08f8ffff12f8ffff6cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
